@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**abhishek151-G/abhishek151-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+                                  A passionate Data Analyst📊 from India
+                                  
+🔭 I’m a life long learner, currently exploring more about Data Analytics!
+🌱 I’m currently learning and upskilling myself.
+🧰 My analytics toolbox contains SQL, Python, Power BI, DAX, Power Query & MS Excel.
+📚 Specialized in data collection, data cleaning, data analysis, and data visualization.
+💬 Ask me about SQL, Power BI.
+📫 Reach me at Gmail -abhishekpaswan1155@gmail.com
+🔗 Connect with me at LinkedIn - www.linkedin.com/in/abhishek-paswan1501
+❤️ I love learning new things!
